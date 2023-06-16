@@ -1,0 +1,13 @@
+2022-06-10,new House,Endesa,Teste0003,1234
+2022-06-12,new Division,201,Cave
+2022-06-14,new SmartBulb,201,Cave,On,Warm,8.5,2.34
+2022-06-16,new SmartCamera,201,Cave,Off,3440,1440,32.76
+2022-06-18,new SmartSpeaker,201,Cave,On,77,Mega Hits,JBL
+2022-06-20,change Device,201,6556,Tone,Cold
+2022-06-22,change Device,201,6557,Resolution Height,3920
+2022-06-24,change Device,201,6557,File Size,55.6
+2022-06-26,change Device,201,6558,Volume,84
+2022-06-28,change Energy Provider,201,Galp Energia
+2022-06-30,change Tax,Galp Energia,0.89
+2022-07-02,change Base Value,Galp Energia,1.67
+2022-07-05,Turn Devices On/Off,201,Cave,Off
